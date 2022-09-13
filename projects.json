@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
+      "name": "Double Flip",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/Coreyl88/Double-Flip",
+      "image": "https://user-images.githubusercontent.com/109244177/184242017-198ff249-98b7-4164-bd24-82dab3b39742.jpeg"
     },
     {
-      "name": "project2",
+      "name": "Medium",
       "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/imcbee/GA-SEI725-Project-2---Medium",
+      "image": "https://user-images.githubusercontent.com/107007458/188529000-9f31c12e-c917-4043-b6fc-4382295188c5.png"
     }
 ]
